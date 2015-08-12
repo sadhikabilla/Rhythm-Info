@@ -3,7 +3,7 @@
 Rhythm is a browser based music score editor and player. It is created in partial fulfillment of Orbital 2015, a summer programme  conducted by the National University Of Singapore (NUS) School Of Computing   
 
 
-Usage
+#Usage
 
 Head over to http://128.199.141.170:8888/ and play the piano!
 
@@ -33,13 +33,13 @@ You can then serve up the page with either npm start or node server.js.
 
 If you wish to modify the code, please note that any changes made to the MIDI subsystem requires a recompilation of the subsystem sources. Please npm install -g browserify, cd midi/ and run ./compile. This will regenerate bundle.js.
 
-Copyright
+#Copyright
 
 Rhythm is copyright Thenaesh Elango and Sadhika Billa.
 
 MIDI.js is copyright Michael Deal. Pixi.js is copyright the Pixi.js team.
 
-Permissions
+#Permissions
 
 Rhythm is licensed for use under the GNU General Public Licence, version 3.
 
